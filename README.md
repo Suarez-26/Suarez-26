@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:santiago.suarezh26@gmail.com"><img src="https://img.shields.io/badge/Email-Cont%C3%A1ctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://snazzy-brigadeiros-72b1c7.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-Ver%20Sitio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portafolio" /></a>
+  <a href="https://profileweb1.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-Ver%20Sitio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portafolio" /></a>
   <a href="https://github.com/Suarez-26"><img src="https://img.shields.io/badge/GitHub-Suarez--26-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -124,7 +124,7 @@
   <a href="mailto:santiago.suarezh26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://snazzy-brigadeiros-72b1c7.netlify.app/">
+  <a href="https://profileweb1.netlify.app/">
     <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio"/>
   </a>
   <a href="https://github.com/Suarez-26">
